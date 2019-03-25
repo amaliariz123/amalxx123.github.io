@@ -1,0 +1,47 @@
+body {
+    color: white;
+    background-color: #b19cd9;
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+.container {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+.img{
+    width: 200px;
+}
+
+.inputEmail {
+    width: 15em;
+}
+
+.inputPassword {
+    width: 15em;
+}
+
+#login {
+    width: 15em;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+.help {
+    float: left;
+}
+
+.forgetPass {
+    float: right;
+}
